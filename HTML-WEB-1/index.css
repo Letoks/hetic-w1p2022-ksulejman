@@ -1,0 +1,17 @@
+*{
+    font-family: Pokemon FireLeaf;
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+}
+
+nav{
+    font-size: 40px;
+    padding: 30px;
+}
+
+.epee{
+    padding-right: 20px;
+}
